@@ -1,3 +1,10 @@
-# My Awesome Book
+# О курсе
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Курс \( GIT9 \) адресован проходящим государственную итоговую аттестацию.
+
+#### Внимание!
+
+Ежегодная поддержка GIT9 не планируется. Внимательно проверяйте соответствие версии и года публикации.
+
+version 0.1 25.04.2017
+
