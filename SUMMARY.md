@@ -5,4 +5,5 @@
 * [Порядок изучения курса](poryadok-izucheniya-kursa.md)
 * [Задачи: измерение информации](zadachi-izmerenie-informatsii.md)
 * [Задачи: программирование](zadachi-programmirovanie.md)
+* [Задачи: прикладные программы](zadachi-prikladnie-programmi.md)
 
