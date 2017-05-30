@@ -1,3 +1,10 @@
-# First Chapter
+# Структура курса
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+* [Задачи: измерение информации](/zadachi-izmerenie-informatsii.md)
+* [Задачи: программирование](/zadachi-programmirovanie.md)
+* [Задачи: прикладные программы](/zadachi-prikladnie-programmi.md)
+* [Задачи: математическая логика](/zadachi-matematicheskaya-logika.md)
+* [Задачи: графы](/zadachi-grafi.md)
+
+
+
