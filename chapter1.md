@@ -1,6 +1,8 @@
 # Структура курса
 
 * [Системы счисления](/sistemi-schisleniya.md)
+* [Графы](/grafi.md)
+* [Программирование](/programmirovanie.md)
 * [Задачи: измерение информации](/zadachi-izmerenie-informatsii.md)
 * [Задачи: программирование](/zadachi-programmirovanie.md)
 * [Задачи: прикладные программы](/zadachi-prikladnie-programmi.md)
