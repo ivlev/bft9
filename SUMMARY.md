@@ -6,6 +6,7 @@
 * [Системы счисления](sistemi-schisleniya.md)
 * [Графы](grafi.md)
 * [Математическая логика](matematicheskaya-logika.md)
+* [Файловые системы](failovie-sistemi.md)
 * [Программирование](programmirovanie.md)
 * [Измерение информации](izmerenie-informatsii.md)
 * [Задачи: измерение информации](zadachi-izmerenie-informatsii.md)
