@@ -23,4 +23,5 @@
 * [Алгоритмы: теория](algoritmi/algoritmi-teoriya.md)
   * [Задачи: алгоритмы](algoritmi/algoritmi-teoriya/zadachi-algoritmi.md)
     * [Чертежник](algoritmi/algoritmi-teoriya/zadachi-algoritmi/chertezhnik.md)
+    * [Исполнители-арифметики](algoritmi/algoritmi-teoriya/zadachi-algoritmi/ispolniteli-arifmetiki.md)
 
