@@ -17,10 +17,19 @@
    1) C:\Class\Homework\Program\task.pas   
    2) C:\Class\9b\Homework\Program\task.pas
    3) C:\Class\9b\Pascal\Homework\Program\task.pas   
-   4) C:\Class\Pascal\Homework\Program\task.pas  
+   4) C:\Class\Pascal\Homework\Program\task.pas
    ```
 
-3. ывжадлыжвалжывла
+3. Пользователь работал с файлом **C:\Document\Seminar\Math\lesson.htm**. Затем он поднялся на один уровень вверх, создал там каталог Info, в нём создал ещё один каталог Form и переместил в него файл lesson.htm. Каким стало полное имя этого файла после перемещения?
+
+   ```
+   1) C:\Document\Math\Form\lesson.htm   
+   2) C:\ Document\Seminar\Math\ Info\Form\lesson.htm   
+   3) C:\Document\Info\Form\lesson.htm   
+   4) C:\Document\Seminar\Info\Form\lesson.htm   
+
+   ```
+
 4. ывжадлыжвлдажывал
 5. ывжадлыжвлаыжвла
 6. ывжадлыжвалдыжвла
