@@ -13,4 +13,5 @@
 * [Задачи: программирование](zadachi-programmirovanie.md)
 * [Задачи: прикладные программы](zadachi-prikladnie-programmi.md)
 * [Задачи: математическая логика](zadachi-matematicheskaya-logika.md)
+* [Задачи: файловые системы](zadachi-failovie-sistemi.md)
 
