@@ -16,4 +16,5 @@
 * [Задачи: файловые системы](zadachi-failovie-sistemi.md)
 * [Задачи: интернет](failovie-sistemi/zadachi-internet.md)
 * [Задачи: графы](zadachi-grafi.md)
+* [Задачи: системы счисления](zadachi-sistemi-schisleniya.md)
 
