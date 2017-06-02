@@ -35,5 +35,9 @@
 ## Системы счисления
 
 * [Двоичная, восьмеричная и шестнадцатиричная системы](sistemi-schisleniya-teoriya/dvoichnaya-vosmerichnaya-i-shestnadtsatirichnaya-sistemi.md)
-  * [Задачи: системы счисления](sistemi-schisleniya-teoriya/dvoichnaya-vosmerichnaya-i-shestnadtsatirichnaya-sistemi/zadachi-sistemi-schisleniya.md)
+  * [Задачи: двоичная система](sistemi-schisleniya-teoriya/dvoichnaya-vosmerichnaya-i-shestnadtsatirichnaya-sistemi/zadachi-sistemi-schisleniya.md)
+
+## Файловые системы
+
+* [Файловые системы: теория](failovie-sistemi/failovie-sistemi-teoriya.md)
 
