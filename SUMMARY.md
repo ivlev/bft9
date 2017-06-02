@@ -55,4 +55,5 @@
 ## Математическая логика
 
 * [Символы математической логики](matematicheskaya-logika/simvoli-matematicheskoi-logiki.md)
+  * [Задачи: элементарной логики И, ИЛИ, НЕ](matematicheskaya-logika/simvoli-matematicheskoi-logiki/zadachi-elementarnaya-logika-i-ili-ne.md)
 
