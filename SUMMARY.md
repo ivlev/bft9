@@ -42,3 +42,8 @@
     * [Исполнители-арифметики](algoritmi/algoritmi-teoriya/zadachi-algoritmi/ispolniteli-arifmetiki.md)
     * [Автомат](algoritmi/algoritmi-teoriya/zadachi-algoritmi/avtomat.md)
 
+## Измерение информации
+
+* [Единицы измерения объема и скорости](izmerenie-informatsii/edinitsi-izmereniya-obema-i-skorosti.md)
+  * [Задачи: измерение информации и её потоков](izmerenie-informatsii/edinitsi-izmereniya-obema-i-skorosti/zadachi-izmerenie-informatsii-i-eyo-potokov.md)
+
