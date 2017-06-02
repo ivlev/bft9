@@ -27,3 +27,8 @@
     * [Исполнители-арифметики](algoritmi/algoritmi-teoriya/zadachi-algoritmi/ispolniteli-arifmetiki.md)
     * [Автомат](algoritmi/algoritmi-teoriya/zadachi-algoritmi/avtomat.md)
 
+## О Курсе
+
+* [Структура курса](o-kurse/struktura-kursa.md)
+  * [Порядок изучения курса](o-kurse/struktura-kursa/poryadok-izucheniya-kursa.md)
+
