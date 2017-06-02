@@ -50,4 +50,9 @@
 ## Графы
 
 * [Графы. Применение графов к решению задач](grafi/grafi-primenenie-grafov-k-resheniyu-zadach.md)
+  * [Задачи: транспортные графы](grafi/grafi-primenenie-grafov-k-resheniyu-zadach/zadachi-transportnie-grafi.md)
+
+## Математическая логика
+
+* [Символы математической логики](matematicheskaya-logika/simvoli-matematicheskoi-logiki.md)
 
