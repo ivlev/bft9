@@ -47,3 +47,7 @@
 * [Единицы измерения объема и скорости](izmerenie-informatsii/edinitsi-izmereniya-obema-i-skorosti.md)
   * [Задачи: измерение информации и её потоков](izmerenie-informatsii/edinitsi-izmereniya-obema-i-skorosti/zadachi-izmerenie-informatsii-i-eyo-potokov.md)
 
+## Графы
+
+* [Графы. Применение графов к решению задач](grafi/grafi-primenenie-grafov-k-resheniyu-zadach.md)
+
