@@ -31,6 +31,7 @@
 ## Файловые системы
 
 * [Файловые системы: теория](failovie-sistemi/failovie-sistemi-teoriya.md)
+  * [Задачи: навигация по файловой системе](failovie-sistemi/failovie-sistemi-teoriya/zadachi-navigatsiya-po-failovoi-sisteme.md)
 
 ## Алгоритмы
 
