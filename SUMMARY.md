@@ -16,6 +16,7 @@
 * [Задачи: графы](zadachi-grafi.md)
 * [Задачи: системы счисления](zadachi-sistemi-schisleniya.md)
 * [Задачи: измерение информации](zadachi-izmerenie-informatsii.md)
+* [Задачи: программирование](zadachi-programmirovanie.md)
 
 ## Алгоритмы
 
