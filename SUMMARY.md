@@ -23,6 +23,7 @@
 * [Алгоритмы: теория](algoritmi/algoritmi-teoriya.md)
   * [Задачи: алгоритмы](algoritmi/algoritmi-teoriya/zadachi-algoritmi.md)
     * [Чертежник](algoritmi/algoritmi-teoriya/zadachi-algoritmi/chertezhnik.md)
+    * [Черепашка](algoritmi/algoritmi-teoriya/zadachi-algoritmi/cherepashka.md)
     * [Исполнители-арифметики](algoritmi/algoritmi-teoriya/zadachi-algoritmi/ispolniteli-arifmetiki.md)
     * [Автомат](algoritmi/algoritmi-teoriya/zadachi-algoritmi/avtomat.md)
 
