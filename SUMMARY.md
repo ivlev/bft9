@@ -68,3 +68,8 @@
 * [Электронные таблицы](/prikladnoe-programmirovanie/electronnie-tablici.md#электронные-таблицы)
   * [Задачи: электронные таблицы](prikladnoe-programmirovanie/electronnie-tablici/zadachi-elektronnie-tablitsi.md)
 
+## Кодирование информации
+
+* [Шифры и коды: от простого к сложному](codirovanie-informacii/schifri-i-codi.md)
+  * [Задачи: кодирование](codirovanie-informacii/schifri-i-codi/zadachi-kodirovanie.md)
+
