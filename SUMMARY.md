@@ -32,7 +32,7 @@
 * [Структура курса](o-kurse/struktura-kursa.md)
   * [Порядок изучения курса](o-kurse/struktura-kursa/poryadok-izucheniya-kursa.md)
 
-## Системы счисления: теория
+## Системы счисления
 
 * [Двоичная, восьмеричная и шестнадцатиричная системы](sistemi-schisleniya-teoriya/dvoichnaya-vosmerichnaya-i-shestnadtsatirichnaya-sistemi.md)
 
