@@ -59,6 +59,12 @@
 
 ## Программирование
 
-* Элементарное программирование
+* [Элементарное программирование](programmirovanie/elementarnoe-programmirovanie.md)
   * [Python](programmirovanie/python.md)
+  * [Задачи: программирование](programmirovanie/zadachi-programmirovanie.md)
+
+## Прикладное программирование
+
+* Электронные таблицы: основы
+  * Задачи: элементарные электронные таблицы
 
