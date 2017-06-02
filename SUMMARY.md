@@ -65,5 +65,6 @@
 
 ## Прикладное программирование
 
-* Электронные таблицы
+* [Электронные таблицы](/prikladnoe-programmirovanie/electronnie-tablici.md#электронные-таблицы)
+  * [Задачи: электронные таблицы](prikladnoe-programmirovanie/electronnie-tablici/zadachi-elektronnie-tablitsi.md)
 
